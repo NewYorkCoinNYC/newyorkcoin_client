@@ -401,7 +401,7 @@ Generation is limited to [genproclimit] processors, -1 is unlimited. </td>
 <td> No
 </td></tr></table>
 
-*Table stolen from [node-newyorkcoin](https://github.com/NewYorkCoinNYC/node-newyorkcoin)
+* Table taken from [node-newyorkcoin](https://github.com/NewYorkCoinNYC/node-newyorkcoin)
 
 ## Contributing
 
@@ -412,7 +412,3 @@ For local testing, make sure to replace the user/password in `spec/client_spec.r
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-
-## Can't I just use a client for bitcoin or litecoin?
-
-Perhaps, but this way you don't need to worry about any current or future api inconsistencies. Plus, why use a tool built for an inferior alt coin?
